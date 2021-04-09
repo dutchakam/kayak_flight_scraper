@@ -1,0 +1,181 @@
+,depart_from,arrive_at,date,depart_time,arrival_time,price,airline,flight_duration
+0,DEN,IAD,2021-04-14,9:25 ,8:13 ,$158,"Frontier, Spirit Airlines ",20h 48m
+1,DEN,IAD,2021-04-14,1:45 ,7:00 ,$193,United Airlines,3h 15m
+2,DEN,IAD,2021-04-14,4:00 ,9:17 ,$193,United Airlines,3h 17m
+3,DEN,IAD,2021-04-14,10:00 ,3:21 ,$193,United Airlines,3h 21m
+4,DEN,IAD,2021-04-14,6:15 ,11:36 ,$193,United Airlines,3h 21m
+5,DEN,IAD,2021-04-14,11:25 ,4:50 ,$193,United Airlines,3h 25m
+6,DEN,IAD,2021-04-14,3:59 ,11:58 ,$200,American Airlines,5h 59m
+7,DEN,IAD,2021-04-14,10:19 ,6:36 ,$200,American Airlines,6h 17m
+8,DEN,IAD,2021-04-14,6:01 ,3:03 ,$200,American Airlines,7h 02m
+9,DEN,IAD,2021-04-14,1:56 ,11:58 ,$200,American Airlines,8h 02m
+10,DEN,IAD,2021-04-14,8:07 ,6:36 ,$200,American Airlines,8h 29m
+11,DEN,IAD,2021-04-14,12:45 ,11:15 ,$200,American Airlines,8h 30m
+12,DEN,IAD,2021-04-14,3:30 ,10:52 ,$202,Delta,5h 22m
+13,DEN,IAD,2021-04-14,1:45 ,9:14 ,$202,United Airlines,5h 29m
+14,DEN,IAD,2021-04-14,10:50 ,6:28 ,$202,Delta,5h 38m
+15,DEN,IAD,2021-04-15,1:45 ,7:00 ,$193,United Airlines,3h 15m
+16,DEN,IAD,2021-04-15,4:00 ,9:17 ,$193,United Airlines,3h 17m
+17,DEN,IAD,2021-04-15,10:00 ,3:21 ,$193,United Airlines,3h 21m
+18,DEN,IAD,2021-04-15,6:15 ,11:36 ,$193,United Airlines,3h 21m
+19,DEN,IAD,2021-04-15,11:25 ,4:50 ,$193,United Airlines,3h 25m
+20,DEN,IAD,2021-04-15,3:59 ,11:58 ,$200,American Airlines,5h 59m
+21,DEN,IAD,2021-04-15,10:19 ,6:36 ,$200,American Airlines,6h 17m
+22,DEN,IAD,2021-04-15,6:01 ,3:03 ,$200,American Airlines,7h 02m
+23,DEN,IAD,2021-04-15,1:56 ,11:58 ,$200,American Airlines,8h 02m
+24,DEN,IAD,2021-04-15,8:07 ,6:36 ,$200,American Airlines,8h 29m
+25,DEN,IAD,2021-04-15,12:45 ,11:15 ,$200,American Airlines,8h 30m
+26,DEN,IAD,2021-04-15,10:42 ,5:37 ,$202,Delta,4h 55m
+27,DEN,IAD,2021-04-15,9:45 ,4:50 ,$202,United Airlines,5h 05m
+28,DEN,IAD,2021-04-15,3:30 ,10:52 ,$202,Delta,5h 22m
+29,DEN,IAD,2021-04-15,1:45 ,9:14 ,$202,United Airlines,5h 29m
+30,DEN,IAD,2021-04-16,1:45 ,7:00 ,$49,United Airlines,3h 15m
+31,DEN,IAD,2021-04-16,4:00 ,9:17 ,$49,United Airlines,3h 17m
+32,DEN,IAD,2021-04-16,6:15 ,11:36 ,$49,United Airlines,3h 21m
+33,DEN,IAD,2021-04-16,6:01 ,3:03 ,$75,American Airlines,7h 02m
+34,DEN,IAD,2021-04-16,12:45 ,11:15 ,$75,American Airlines,8h 30m
+35,DEN,IAD,2021-04-16,6:30 ,2:23 ,$77,American Airlines,5h 53m
+36,DEN,IAD,2021-04-16,2:42 ,10:39 ,$77,American Airlines,5h 57m
+37,DEN,IAD,2021-04-16,1:39 ,10:39 ,$77,American Airlines,7h 00m
+38,DEN,IAD,2021-04-16,12:55 ,10:39 ,$77,American Airlines,7h 44m
+39,DEN,IAD,2021-04-16,11:25 ,4:50 ,$99,United Airlines,3h 25m
+40,DEN,IAD,2021-04-16,3:00 ,10:57 ,$99,Delta,5h 57m
+41,DEN,IAD,2021-04-16,2:45 ,11:40 ,$99,Delta,6h 55m
+42,DEN,IAD,2021-04-16,12:50 ,9:59 ,$99,Delta,7h 09m
+43,DEN,IAD,2021-04-16,6:00 ,3:38 ,$99,Delta,7h 38m
+44,DEN,IAD,2021-04-16,12:37 ,11:40 ,$99,Delta,9h 03m
+45,DEN,IAD,2021-04-17,1:45 ,7:00 ,$49,United Airlines,3h 15m
+46,DEN,IAD,2021-04-17,4:00 ,9:17 ,$49,United Airlines,3h 17m
+47,DEN,IAD,2021-04-17,10:00 ,3:21 ,$49,United Airlines,3h 21m
+48,DEN,IAD,2021-04-17,6:15 ,11:36 ,$49,United Airlines,3h 21m
+49,DEN,IAD,2021-04-17,6:01 ,3:03 ,$75,American Airlines,7h 02m
+50,DEN,IAD,2021-04-17,12:45 ,11:15 ,$75,American Airlines,8h 30m
+51,DEN,IAD,2021-04-17,2:42 ,10:39 ,$77,American Airlines,5h 57m
+52,DEN,IAD,2021-04-17,1:39 ,10:39 ,$77,American Airlines,7h 00m
+53,DEN,IAD,2021-04-17,12:55 ,10:39 ,$77,American Airlines,7h 44m
+54,DEN,IAD,2021-04-17,11:25 ,4:50 ,$99,United Airlines,3h 25m
+55,DEN,IAD,2021-04-17,10:42 ,5:37 ,$99,Delta,4h 55m
+56,DEN,IAD,2021-04-17,2:07 ,10:05 ,$99,Delta,5h 58m
+57,DEN,IAD,2021-04-17,2:05 ,10:52 ,$99,Delta,6h 47m
+58,DEN,IAD,2021-04-17,12:50 ,9:59 ,$99,Delta,7h 09m
+59,DEN,IAD,2021-04-17,6:00 ,3:38 ,$99,Delta,7h 38m
+60,DEN,DCA,2021-04-14,4:38 ,9:59 ,$137,Frontier,3h 21m
+61,DEN,DCA,2021-04-14,11:24 ,4:46 ,$137,Frontier,3h 22m
+62,DEN,DCA,2021-04-14,10:00 ,3:21 ,$193,United Airlines,3h 21m
+63,DEN,DCA,2021-04-14,10:19 ,5:59 ,$200,American Airlines,5h 40m
+64,DEN,DCA,2021-04-14,12:10 ,7:53 ,$200,American Airlines,5h 43m
+65,DEN,DCA,2021-04-14,3:59 ,11:53 ,$200,American Airlines,5h 54m
+66,DEN,DCA,2021-04-14,1:56 ,10:16 ,$200,American Airlines,6h 20m
+67,DEN,DCA,2021-04-14,8:07 ,4:29 ,$200,American Airlines,6h 22m
+68,DEN,DCA,2021-04-14,10:19 ,7:53 ,$200,American Airlines,7h 34m
+69,DEN,DCA,2021-04-14,8:07 ,5:59 ,$200,American Airlines,7h 52m
+70,DEN,DCA,2021-04-14,1:56 ,11:53 ,$200,American Airlines,7h 57m
+71,DEN,DCA,2021-04-14,12:45 ,10:49 ,$200,American Airlines,8h 04m
+72,DEN,DCA,2021-04-14,12:10 ,10:16 ,$200,American Airlines,8h 06m
+73,DEN,DCA,2021-04-14,6:01 ,4:29 ,$200,American Airlines,8h 28m
+74,DEN,DCA,2021-04-14,1:45 ,9:00 ,$202,United Airlines,5h 15m
+75,DEN,DCA,2021-04-15,4:38 ,9:59 ,$136,Frontier,3h 21m
+76,DEN,DCA,2021-04-15,11:24 ,4:46 ,$136,Frontier,3h 22m
+77,DEN,DCA,2021-04-15,10:00 ,3:21 ,$193,United Airlines,3h 21m
+78,DEN,DCA,2021-04-15,10:19 ,5:59 ,$200,American Airlines,5h 40m
+79,DEN,DCA,2021-04-15,12:10 ,7:53 ,$200,American Airlines,5h 43m
+80,DEN,DCA,2021-04-15,3:59 ,11:53 ,$200,American Airlines,5h 54m
+81,DEN,DCA,2021-04-15,1:56 ,10:16 ,$200,American Airlines,6h 20m
+82,DEN,DCA,2021-04-15,8:07 ,4:29 ,$200,American Airlines,6h 22m
+83,DEN,DCA,2021-04-15,10:19 ,7:53 ,$200,American Airlines,7h 34m
+84,DEN,DCA,2021-04-15,8:07 ,5:59 ,$200,American Airlines,7h 52m
+85,DEN,DCA,2021-04-15,1:56 ,11:53 ,$200,American Airlines,7h 57m
+86,DEN,DCA,2021-04-15,12:45 ,10:49 ,$200,American Airlines,8h 04m
+87,DEN,DCA,2021-04-15,12:10 ,10:16 ,$200,American Airlines,8h 06m
+88,DEN,DCA,2021-04-15,6:01 ,4:29 ,$200,American Airlines,8h 28m
+89,DEN,DCA,2021-04-15,1:45 ,9:00 ,$202,United Airlines,5h 15m
+90,DEN,DCA,2021-04-16,4:38 ,9:59 ,$29,Frontier,3h 21m
+91,DEN,DCA,2021-04-16,11:24 ,4:46 ,$29,Frontier,3h 22m
+92,DEN,DCA,2021-04-16,10:19 ,5:59 ,$75,American Airlines,5h 40m
+93,DEN,DCA,2021-04-16,12:10 ,7:53 ,$75,American Airlines,5h 43m
+94,DEN,DCA,2021-04-16,3:59 ,11:53 ,$75,American Airlines,5h 54m
+95,DEN,DCA,2021-04-16,1:56 ,10:16 ,$75,American Airlines,6h 20m
+96,DEN,DCA,2021-04-16,10:19 ,7:53 ,$75,American Airlines,7h 34m
+97,DEN,DCA,2021-04-16,8:07 ,5:59 ,$75,American Airlines,7h 52m
+98,DEN,DCA,2021-04-16,1:56 ,11:53 ,$75,American Airlines,7h 57m
+99,DEN,DCA,2021-04-16,12:10 ,10:16 ,$75,American Airlines,8h 06m
+100,DEN,DCA,2021-04-16,4:45 ,12:25 ,$77,American Airlines,5h 40m
+101,DEN,DCA,2021-04-16,6:30 ,2:15 ,$77,American Airlines,5h 45m
+102,DEN,DCA,2021-04-16,12:55 ,8:48 ,$77,American Airlines,5h 53m
+103,DEN,DCA,2021-04-16,10:42 ,6:51 ,$77,American Airlines,6h 09m
+104,DEN,DCA,2021-04-16,2:42 ,11:01 ,$77,American Airlines,6h 19m
+105,DEN,DCA,2021-04-17,4:38 ,9:59 ,$24,Frontier,3h 21m
+106,DEN,DCA,2021-04-17,11:24 ,4:46 ,$24,Frontier,3h 22m
+107,DEN,DCA,2021-04-17,10:13 ,5:59 ,$75,American Airlines,5h 46m
+108,DEN,DCA,2021-04-17,1:56 ,10:16 ,$75,American Airlines,6h 20m
+109,DEN,DCA,2021-04-17,8:07 ,4:29 ,$75,American Airlines,6h 22m
+110,DEN,DCA,2021-04-17,10:13 ,7:53 ,$75,American Airlines,7h 40m
+111,DEN,DCA,2021-04-17,8:07 ,5:59 ,$75,American Airlines,7h 52m
+112,DEN,DCA,2021-04-17,6:01 ,4:29 ,$75,American Airlines,8h 28m
+113,DEN,DCA,2021-04-17,12:55 ,8:48 ,$77,American Airlines,5h 53m
+114,DEN,DCA,2021-04-17,10:42 ,6:51 ,$77,American Airlines,6h 09m
+115,DEN,DCA,2021-04-17,2:42 ,11:01 ,$77,American Airlines,6h 19m
+116,DEN,DCA,2021-04-17,12:00 ,8:21 ,$77,American Airlines,6h 21m
+117,DEN,DCA,2021-04-17,7:45 ,4:10 ,$77,American Airlines,6h 25m
+118,DEN,DCA,2021-04-17,8:15 ,4:49 ,$77,American Airlines,6h 34m
+119,DEN,DCA,2021-04-17,9:30 ,6:51 ,$77,American Airlines,7h 21m
+120,DEN,BWI,2021-04-14,3:59 ,11:55 ,$93,American Airlines,5h 56m
+121,DEN,BWI,2021-04-14,12:10 ,8:11 ,$93,American Airlines,6h 01m
+122,DEN,BWI,2021-04-14,10:19 ,6:32 ,$93,American Airlines,6h 13m
+123,DEN,BWI,2021-04-14,1:56 ,10:22 ,$93,American Airlines,6h 26m
+124,DEN,BWI,2021-04-14,6:01 ,3:05 ,$93,American Airlines,7h 04m
+125,DEN,BWI,2021-04-14,10:19 ,8:11 ,$93,American Airlines,7h 52m
+126,DEN,BWI,2021-04-14,1:56 ,11:55 ,$93,American Airlines,7h 59m
+127,DEN,BWI,2021-04-14,12:10 ,10:22 ,$93,American Airlines,8h 12m
+128,DEN,BWI,2021-04-14,8:07 ,6:32 ,$93,American Airlines,8h 25m
+129,DEN,BWI,2021-04-14,6:30 ,2:19 ,$95,American Airlines,5h 49m
+130,DEN,BWI,2021-04-14,2:42 ,11:00 ,$95,American Airlines,6h 18m
+131,DEN,BWI,2021-04-14,10:42 ,7:11 ,$95,American Airlines,6h 29m
+132,DEN,BWI,2021-04-14,1:39 ,11:00 ,$95,American Airlines,7h 21m
+133,DEN,BWI,2021-04-14,9:30 ,7:11 ,$95,American Airlines,7h 41m
+134,DEN,BWI,2021-04-14,12:55 ,11:00 ,$95,American Airlines,8h 05m
+135,DEN,BWI,2021-04-15,8:09 ,1:30 ,$48,Frontier,3h 21m
+136,DEN,BWI,2021-04-15,5:45 ,11:09 ,$86,United Airlines,3h 24m
+137,DEN,BWI,2021-04-15,10:00 ,3:24 ,$86,United Airlines,3h 24m
+138,DEN,BWI,2021-04-15,3:59 ,11:55 ,$93,American Airlines,5h 56m
+139,DEN,BWI,2021-04-15,12:10 ,8:11 ,$93,American Airlines,6h 01m
+140,DEN,BWI,2021-04-15,10:19 ,6:32 ,$93,American Airlines,6h 13m
+141,DEN,BWI,2021-04-15,1:56 ,10:22 ,$93,American Airlines,6h 26m
+142,DEN,BWI,2021-04-15,10:19 ,8:11 ,$93,American Airlines,7h 52m
+143,DEN,BWI,2021-04-15,1:56 ,11:55 ,$93,American Airlines,7h 59m
+144,DEN,BWI,2021-04-15,12:10 ,10:22 ,$93,American Airlines,8h 12m
+145,DEN,BWI,2021-04-15,8:07 ,6:32 ,$93,American Airlines,8h 25m
+146,DEN,BWI,2021-04-15,1:45 ,9:28 ,$95,United Airlines,5h 43m
+147,DEN,BWI,2021-04-15,4:45 ,12:28 ,$95,American Airlines,5h 43m
+148,DEN,BWI,2021-04-15,6:30 ,2:19 ,$95,American Airlines,5h 49m
+149,DEN,BWI,2021-04-15,1:39 ,11:00 ,$95,American Airlines,7h 21m
+150,DEN,BWI,2021-04-16,8:09 ,1:30 ,$44,Frontier,3h 21m
+151,DEN,BWI,2021-04-16,5:45 ,11:09 ,$49,United Airlines,3h 24m
+152,DEN,BWI,2021-04-16,12:10 ,8:11 ,$75,American Airlines,6h 01m
+153,DEN,BWI,2021-04-16,1:56 ,10:22 ,$75,American Airlines,6h 26m
+154,DEN,BWI,2021-04-16,12:10 ,10:22 ,$75,American Airlines,8h 12m
+155,DEN,BWI,2021-04-16,4:45 ,12:28 ,$77,American Airlines,5h 43m
+156,DEN,BWI,2021-04-16,2:42 ,11:00 ,$77,American Airlines,6h 18m
+157,DEN,BWI,2021-04-16,1:39 ,11:00 ,$77,American Airlines,7h 21m
+158,DEN,BWI,2021-04-16,12:55 ,11:00 ,$77,American Airlines,8h 05m
+159,DEN,BWI,2021-04-16,10:42 ,10:22 ,$81,American Airlines,9h 40m
+160,DEN,BWI,2021-04-16,9:30 ,10:22 ,$81,American Airlines,10h 52m
+161,DEN,BWI,2021-04-16,10:00 ,3:24 ,$86,United Airlines,3h 24m
+162,DEN,BWI,2021-04-16,8:07 ,6:32 ,$93,American Airlines,8h 25m
+163,DEN,BWI,2021-04-16,1:45 ,9:28 ,$95,United Airlines,5h 43m
+164,DEN,BWI,2021-04-16,1:25 ,9:28 ,$95,United Airlines,6h 03m
+165,DEN,BWI,2021-04-17,11:59 ,5:20 ,$30,Frontier,3h 21m
+166,DEN,BWI,2021-04-17,5:45 ,11:09 ,$49,United Airlines,3h 24m
+167,DEN,BWI,2021-04-17,7:45 ,3:36 ,$77,American Airlines,5h 51m
+168,DEN,BWI,2021-04-17,1:45 ,9:28 ,$95,United Airlines,5h 43m
+169,DEN,BWI,2021-04-17,1:25 ,9:28 ,$95,United Airlines,6h 03m
+170,DEN,BWI,2021-04-17,11:45 ,9:28 ,$95,United Airlines,7h 43m
+171,DEN,BWI,2021-04-17,12:50 ,10:03 ,$99,Delta,7h 13m
+172,DEN,BWI,2021-04-17,6:00 ,3:24 ,$99,Delta,7h 24m
+173,DEN,BWI,2021-04-17,2:05 ,12:26 ,$99,Delta,8h 21m
+174,DEN,BWI,2021-04-17,7:05 ,6:04 ,$104,Spirit Airlines,8h 59m
+175,DEN,BWI,2021-04-17,6:00 ,5:10 ,$104,Delta,9h 10m
+176,DEN,BWI,2021-04-17,12:22 ,12:26 ,$104,Delta,10h 04m
+177,DEN,BWI,2021-04-17,10:42 ,5:34 ,$135,Delta,4h 52m
+178,DEN,BWI,2021-04-17,8:37 ,4:22 ,$135,Delta,5h 45m
+179,DEN,BWI,2021-04-17,12:22 ,8:43 ,$135,Delta,6h 21m
