@@ -1,3 +1,7 @@
+# @Time    : 2021/04/09 
+# @Author  : alexanderdutchak@gmail.com
+# @Software: PyCharm
+
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
